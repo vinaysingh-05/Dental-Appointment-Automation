@@ -20,6 +20,10 @@ A modern AI-powered dental appointment platform that automates patient enquiries
   <img src="./assets/screenshots/UI.png" alt="AI Dental Appointment Automation Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="./assets/screenshots/n8n workplace.png" alt="AI Dental Appointment Automation Banner" width="100%">
+</p>
+
 ---
 # 📖 Overview
 
